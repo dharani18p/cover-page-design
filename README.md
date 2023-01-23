@@ -73,8 +73,7 @@ create your own template and add your image
 ## Output:
 Include your output screenshot here
 
-![OUTPUT](./static/cover page.png)
+![OUTPUT](./static/images/cover page.png)
 
-![OUTPUT](./val.png)
 ## Result:
 Therefore the program for creating bookcover is executed successfully.
