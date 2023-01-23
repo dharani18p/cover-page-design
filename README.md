@@ -71,7 +71,6 @@ create your own template and add your image
 </html>
 ```
 ## Output:
-Include your output screenshot here
 
 ![OUTPUT](./static/images/cover page.png)
 
